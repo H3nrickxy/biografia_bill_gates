@@ -1,0 +1,27 @@
+p{
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+ul{
+    color: white;
+    font-size: 20px;
+}
+body{
+    background-color: black;
+}
+#bill{
+    display: contents;
+}
+#gates{
+    list-style-type: disc;
+    display: contents;
+}
+#cabeçalho{
+    display: contents;
+    font-size: 16px;
+}
+a{
+    display: block;
+    font-size: 20px;
+}
